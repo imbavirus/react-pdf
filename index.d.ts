@@ -1,6 +1,6 @@
 /// <reference types="node" />
-
-declare module '@react-pdf/renderer' {
+declare module 'react-pdf'
+declare module 'react-pdf/renderer' {
   import * as React from 'react';
 
   namespace ReactPDF {
